@@ -1,11 +1,10 @@
 Package: anthr402data
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Data for Anthr 402/602 class, Winter Semester 2021
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
-License: What license is it under?
+Author: James R. Allison
+Maintainer: James R. Allison <jallison@byu.edu>
+Description: This package contains data for use in homework assignments and in-class activities
+License: CC BY 4.0
 Encoding: UTF-8
 LazyData: true
